@@ -1,5 +1,5 @@
 # Graph-Data-Visualizer
-Visualizing roles and connections between Les Miserables characters, as well as finding and showing shortest path between 2 given characters.
+Visualizing characters roles and connections from Les Miserables by Victor Hugo, as well as finding and showing shortest path between 2 given characters.
 
 Run instructions:
 Put json file and python file in same directory, then run in command line from same dir:
